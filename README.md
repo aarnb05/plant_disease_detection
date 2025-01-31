@@ -1,4 +1,4 @@
-# plant_disease_detection
+# Plant_disease_detection
 Detection 32 type plant disease
 
 ![Image](https://github.com/user-attachments/assets/69e0831a-745e-4d6f-80b0-f80338abafc0)
