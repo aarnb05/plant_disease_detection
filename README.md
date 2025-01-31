@@ -3,6 +3,7 @@ The model achieved an impressive **training accuracy of 99%** and **validation a
 
 
 **Graph**
+
 ![Image](https://github.com/user-attachments/assets/16d23392-6cbb-4d7f-8621-d8d51b197fc6)
 
 **Detection 32 type plant disease**
